@@ -1,0 +1,23 @@
+{
+  "name": "projetoapp",
+  "version": "1.0.0",
+  "description": "Portal para Dev encontrar vagas de empregos.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "maycon.mhsantos@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "empress": "0.0.2",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "python": "0.0.4",
+    "sequelize": "^6.5.0",
+    "sqlite3": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

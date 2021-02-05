@@ -1,0 +1,6 @@
+npm install express
+npm install express-handlebars : template em jae tipo blade server para conseguir imprimir dados que vem do Back-end para noso Front= fazer lob da lista de vagas.
+npm install body-parser : conseguir pegar requisicao para adicionar a vaga no banco pega o body para transformar em dados
+npm install sequelize : urm abstracao do bando nao faz consuta, faz inset delete update mais facil e rapido
+npm install sqlite3 Banco de dados
+--IMPORTANTE--Criar dependencia do projeto--/ npm install -D nodemon / <= reload de codigo para nao precisar fica abrindo e fechando o servidor toda hora fica abrindo pra ver cod.
